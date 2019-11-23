@@ -1,7 +1,14 @@
 li {
   padding: 5px;
   margin: 5px;
-  background: #faebd7;
+  background: gray;
+}
+
+body{
+
+  background-color: hotpink;
+
+
 }
 
 .label {
@@ -16,4 +23,14 @@ li {
 
 .form-group {
   margin-bottom: 5px;
+}
+
+h1{
+
+  background-color: aqua;
+}
+
+#header{
+font-size: large;
+color: green;
 }
